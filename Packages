@@ -1,0 +1,13 @@
+Package: com.mostafa.c
+Name: x
+Author: mostafa89
+Description: Fix iOS 15.0-15.3.1 hidden actions vuln
+Maintainer: mostafa89
+Architecture: iphoneos-arm64
+Section: Tweaks
+Version: 1.1
+Filename: ./debs/com.mostafa.c_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 5194
+MD5sum: 255c233b01a089d19e79f29e28665a81
+SHA1: 5b9bab7d55a8194b6d713e7df70d8c6e4dd00b16
+SHA265: f844b6d67c37c1feb3cc1f0920b51f4f83d2f6daf542f0d0a8e1463c3a7490e1
